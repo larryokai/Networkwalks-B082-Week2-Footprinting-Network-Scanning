@@ -1,0 +1,2 @@
+# networkwalks-B082-Week2-Footprinting-Network-Scanning
+Week 2 of the NetworkWalks - B082 - Cybersecurity Internship: This week, I focused on passive footprinting of networkwalks.com using six Kali Linux tools: whois, whatweb, nslookup, curl -I, wafw00f, and dnsrecon. I also used Zenmap to perform local network discovery and gain a better understanding of devices and services available on the network. This hands-on exercise helped me strengthen my practical skills in network reconnaissance and cybersecurity assessment. 
